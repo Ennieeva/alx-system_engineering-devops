@@ -1,1 +1,1 @@
-Delete Betty
+Bye my first directory
