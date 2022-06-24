@@ -1,1 +1,1 @@
-Where am I?
+Home Directory
